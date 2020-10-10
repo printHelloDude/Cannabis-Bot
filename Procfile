@@ -1,0 +1,1 @@
+worker: python cannabis-bot.py
