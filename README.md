@@ -1,2 +1,2 @@
-# my-first-repository
-I think this place will fit for a little piece of python code. Maybe. Surely. Yep. Time passes and I have not added anything here. I think I'm great!
+# Cannabis-Bot
+Well, this is a simple Discord python bot. Needed for fun at one my server. That's all what i can say, guys.
