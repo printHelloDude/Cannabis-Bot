@@ -1,2 +1,2 @@
 git+https://github.com/Rapptz/discord.py
-import os
+git+https://github.com/python/cpython/blob/master/Lib/os.py
